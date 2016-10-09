@@ -11,7 +11,7 @@
  */
 
 // Tradução das mensagens do core
-include Plugin::path('CakePtbr') . 'Config' . DS . 'traducao_core.php';
+include 'traducao_core.php';
 
 // Alteração das regras de inflections
-include Plugin::path('CakePtbr') . 'Config' . DS . 'inflections.php';
+include 'inflections.php';
